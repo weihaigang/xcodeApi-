@@ -1,9 +1,9 @@
 import json
 import os
-_host = 'https://www.liziip.com'
+_host = '域名'
 
 
-_basePath = '../VPNFoundation/VPNFoundation/Classes'
+_basePath = '../xxx/xxx/Classes'
 
 _baseXcodeproj='test1'
 
